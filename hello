@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+a = "Today is such a nice day!!"
+puts a
